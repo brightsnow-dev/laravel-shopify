@@ -2,6 +2,7 @@
 
 namespace Osiset\ShopifyApp\Http\Controllers;
 
+
 use Illuminate\Routing\Controller;
 use Osiset\ShopifyApp\Traits\AuthController as AuthControllerTrait;
 
